@@ -1,6 +1,6 @@
 # vue_flowchart_demo
 
-> Vue集成gojs实现流程图管理
+> Vue集成gojs实现流程图管理， 基本实现了流程图的增、删、改，及节点的复杂关联
 
 ## Build Setup
 
